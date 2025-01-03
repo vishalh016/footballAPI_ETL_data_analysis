@@ -1,0 +1,748 @@
+Player_Name,Club,Position,Total Goals,Total Assists,Penalties,Match_Played,Season,Competition
+Courtois,Real Madrid,Goalkeeper,0,0,0,13,2021-2022,UCL
+Vinícius Júnior,Real Madrid,Forward,4,6,0,13,2021-2022,UCL
+Benzema,Real Madrid,Forward,15,1,3,12,2021-2022,UCL
+Modrić,Real Madrid,Midfielder,0,4,0,13,2021-2022,UCL
+Éder Militão,Real Madrid,Defender,0,0,0,12,2021-2022,UCL
+Alaba,Real Madrid,Defender,1,0,0,12,2021-2022,UCL
+Carvajal,Real Madrid,Defender,0,1,0,11,2021-2022,UCL
+Casemiro,Real Madrid,Midfielder,0,0,0,11,2021-2022,UCL
+Kroos,Real Madrid,Midfielder,2,0,0,12,2021-2022,UCL
+Mendy,Real Madrid,Defender,0,2,0,10,2021-2022,UCL
+Valverde,Real Madrid,Midfielder,0,1,0,11,2021-2022,UCL
+Nacho,Real Madrid,Defender,0,0,0,9,2021-2022,UCL
+Rodrygo,Real Madrid,Forward,5,2,0,11,2021-2022,UCL
+Lucas Vázquez,Real Madrid,Midfielder,0,1,0,8,2021-2022,UCL
+Camavinga,Real Madrid,Midfielder,0,1,0,10,2021-2022,UCL
+Asensio,Real Madrid,Forward,1,2,0,8,2021-2022,UCL
+Jović,Real Madrid,Forward,0,0,0,3,2021-2022,UCL
+Marcelo,Real Madrid,Defender,0,0,0,3,2021-2022,UCL
+E. Hazard,Real Madrid,Forward,0,0,0,3,2021-2022,UCL
+Miguel Gutiérrez,Real Madrid,Defender,0,0,0,1,2021-2022,UCL
+Ceballos,Real Madrid,Midfielder,0,0,0,5,2021-2022,UCL
+Mariano Díaz,Real Madrid,Forward,0,0,0,1,2021-2022,UCL
+Vallejo,Real Madrid,Defender,0,0,0,2,2021-2022,UCL
+Bale,Real Madrid,Forward,0,0,0,2,2021-2022,UCL
+Blanco,Real Madrid,Midfielder,0,0,0,1,2021-2022,UCL
+Alisson Becker,Liverpool,Goalkeeper,0,0,0,13,2021-2022,UCL
+Salah,Liverpool,Forward,8,2,1,13,2021-2022,UCL
+Fabinho,Liverpool,Midfielder,1,0,0,13,2021-2022,UCL
+Robertson,Liverpool,Defender,0,2,0,10,2021-2022,UCL
+Mané,Liverpool,Midfielder,5,1,0,13,2021-2022,UCL
+Van Dijk,Liverpool,Defender,0,1,0,9,2021-2022,UCL
+Alexander0Arnold,Liverpool,Defender,0,4,0,9,2021-2022,UCL
+Konaté,Liverpool,Defender,2,0,0,8,2021-2022,UCL
+Henderson,Liverpool,Midfielder,1,2,0,12,2021-2022,UCL
+Matip,Liverpool,Defender,0,0,0,7,2021-2022,UCL
+Thiago Alcántara,Liverpool,Midfielder,1,0,0,10,2021-2022,UCL
+Diogo Jota,Liverpool,Forward,1,1,0,11,2021-2022,UCL
+Keïta,Liverpool,Midfielder,1,2,0,10,2021-2022,UCL
+Luis Díaz,Liverpool,Forward,2,1,0,7,2021-2022,UCL
+Tsimikas,Liverpool,Defender,0,2,0,5,2021-2022,UCL
+Firmino,Liverpool,Midfielder,5,0,0,7,2021-2022,UCL
+Oxlade0Chamberlain,Liverpool,Midfielder,0,1,0,6,2021-2022,UCL
+Gomez,Liverpool,Defender,0,0,0,7,2021-2022,UCL
+Minamino,Liverpool,Forward,0,0,0,4,2021-2022,UCL
+Milner,Liverpool,Midfielder,0,1,0,8,2021-2022,UCL
+Origi,Liverpool,Forward,1,1,0,7,2021-2022,UCL
+Jones,Liverpool,Midfielder,0,2,0,4,2021-2022,UCL
+N. Williams,Liverpool,Defender,0,0,0,3,2021-2022,UCL
+Morton,Liverpool,Midfielder,0,0,0,2,2021-2022,UCL
+Phillips,Liverpool,Defender,0,0,0,2,2021-2022,UCL
+Elliott,Liverpool,Midfielder,0,0,0,1,2021-2022,UCL
+Woltman,Liverpool,Midfielder,0,0,0,1,2021-2022,UCL
+Bradley,Liverpool,Midfielder,0,0,0,1,2021-2022,UCL
+Pau Torres,Villarreal,Defender,1,0,0,12,2021-2022,UCL
+Rulli,Villarreal,Goalkeeper,0,0,0,12,2021-2022,UCL
+Parejo,Villarreal,Midfielder,1,3,0,12,2021-2022,UCL
+Capoue,Villarreal,Midfielder,2,4,0,12,2021-2022,UCL
+Albiol,Villarreal,Defender,0,0,0,12,2021-2022,UCL
+Ederson,Man. City,Goalkeeper,0,0,0,11,2021-2022,UCL
+Mahrez,Man. City,Midfielder,7,2,2,12,2021-2022,UCL
+Danjuma,Villarreal,Midfielder,6,2,1,11,2021-2022,UCL
+Vertonghen,Benfica,Defender,0,1,0,10,2021-2022,UCL
+Vlachodimos,Benfica,Goalkeeper,0,0,0,10,2021-2022,UCL
+Oblak,Atlético,Goalkeeper,0,0,0,10,2021-2022,UCL
+Foyth,Villarreal,Defender,0,0,0,10,2021-2022,UCL
+Bernardo Silva,Man. City,Midfielder,3,3,0,11,2021-2022,UCL
+Lewandowski,Bayern,Forward,13,3,3,10,2021-2022,UCL
+Grimaldo,Benfica,Defender,0,3,0,10,2021-2022,UCL
+Rodri,Man. City,Midfielder,0,0,0,10,2021-2022,UCL
+João Cancelo,Man. City,Defender,2,3,0,9,2021-2022,UCL
+Rüdiger,Chelsea,Defender,1,0,0,9,2021-2022,UCL
+Mendy,Chelsea,Goalkeeper,0,0,0,9,2021-2022,UCL
+Reinildo,LOSC,Defender,0,0,0,10,2021-2022,UCL
+Neuer,Bayern,Goalkeeper,0,1,0,9,2021-2022,UCL
+Weigl,Benfica,Midfielder,0,0,0,9,2021-2022,UCL
+Otamendi,Benfica,Defender,0,0,0,9,2021-2022,UCL
+Sané,Bayern,Midfielder,6,6,0,10,2021-2022,UCL
+Laporte,Man. City,Defender,0,0,0,9,2021-2022,UCL
+Müller,Bayern,Forward,4,3,0,10,2021-2022,UCL
+Pavard,Bayern,Defender,0,1,0,10,2021-2022,UCL
+Thiago Silva,Chelsea,Defender,0,1,0,9,2021-2022,UCL
+De Bruyne,Man. City,Midfielder,2,4,0,10,2021-2022,UCL
+Škriniar,Inter,Defender,1,0,0,8,2021-2022,UCL
+Kristensen,Salzburg,Defender,0,1,0,8,2021-2022,UCL
+Martínez,Ajax,Defender,0,1,0,8,2021-2022,UCL
+Marquinhos,Paris,Defender,0,1,0,8,2021-2022,UCL
+Fonte,LOSC,Defender,0,0,0,8,2021-2022,UCL
+Köhn,Salzburg,Goalkeeper,0,0,0,8,2021-2022,UCL
+Handanovič,Inter,Goalkeeper,0,0,0,8,2021-2022,UCL
+Hakimi,Paris,Defender,0,0,0,8,2021-2022,UCL
+Ulmer,Salzburg,Defender,0,0,0,8,2021-2022,UCL
+Gilberto,Benfica,Defender,1,0,0,9,2021-2022,UCL
+Aaronson,Salzburg,Midfielder,0,2,0,8,2021-2022,UCL
+Rafa Silva,Benfica,Forward,1,1,0,9,2021-2022,UCL
+Gravenberch,Ajax,Midfielder,0,1,0,8,2021-2022,UCL
+Kimmich,Bayern,Midfielder,0,0,0,8,2021-2022,UCL
+Marcos Llorente,Atlético,Midfielder,0,0,0,9,2021-2022,UCL
+Azpilicueta,Chelsea,Defender,1,1,0,9,2021-2022,UCL
+David,LOSC,Forward,3,0,1,8,2021-2022,UCL
+Mbappé,Paris,Forward,6,4,0,8,2021-2022,UCL
+Havertz,Chelsea,Midfielder,3,0,0,9,2021-2022,UCL
+Camara,Salzburg,Midfielder,0,0,0,8,2021-2022,UCL
+Haller,Ajax,Forward,11,1,1,8,2021-2022,UCL
+Bastoni,Inter,Defender,0,0,0,8,2021-2022,UCL
+Koke,Atlético,Midfielder,0,1,0,9,2021-2022,UCL
+Rúben Dias,Man. City,Defender,0,0,0,8,2021-2022,UCL
+Mazraoui,Ajax,Defender,0,2,0,8,2021-2022,UCL
+Gündoğan,Man. City,Midfielder,0,2,0,10,2021-2022,UCL
+Upamecano,Bayern,Defender,0,0,0,8,2021-2022,UCL
+Foden,Man. City,Midfielder,3,2,0,11,2021-2022,UCL
+Seiwald,Salzburg,Midfielder,0,1,0,8,2021-2022,UCL
+Estupiñán,Villarreal,Defender,0,0,0,10,2021-2022,UCL
+Stones,Man. City,Defender,0,0,0,8,2021-2022,UCL
+Brozović,Inter,Midfielder,1,0,0,8,2021-2022,UCL
+Coman,Bayern,Forward,2,3,0,9,2021-2022,UCL
+Messi,Paris,Forward,5,0,2,7,2021-2022,UCL
+Tadić,Ajax,Forward,2,2,0,7,2021-2022,UCL
+André,LOSC,Midfielder,0,0,0,7,2021-2022,UCL
+Kimpembe,Paris,Defender,0,0,0,7,2021-2022,UCL
+Adán,Sporting CP,Goalkeeper,0,0,0,7,2021-2022,UCL
+Szczęsny,Juventus,Goalkeeper,0,0,0,7,2021-2022,UCL
+De Gea,Man. United,Goalkeeper,0,0,0,7,2021-2022,UCL
+Berghuis,Ajax,Forward,3,1,0,8,2021-2022,UCL
+De Ligt,Juventus,Defender,0,0,0,7,2021-2022,UCL
+Núñez,Benfica,Forward,6,0,1,10,2021-2022,UCL
+Matheus Reis,Sporting CP,Defender,0,0,0,8,2021-2022,UCL
+Ronaldo,Man. United,Forward,6,0,0,7,2021-2022,UCL
+Adeyemi,Salzburg,Forward,3,1,2,8,2021-2022,UCL
+Christensen,Chelsea,Defender,1,1,0,8,2021-2022,UCL
+Zeki Çelik,LOSC,Defender,0,1,0,7,2021-2022,UCL
+Martínez,Inter,Forward,1,0,0,8,2021-2022,UCL
+Giménez,Atlético,Defender,0,0,0,7,2021-2022,UCL
+Paulinho,Sporting CP,Forward,3,1,0,8,2021-2022,UCL
+Sterling,Man. City,Forward,3,2,0,12,2021-2022,UCL
+Nuno Mendes,Paris,Defender,0,0,0,8,2021-2022,UCL
+Bonucci,Juventus,Defender,0,0,0,7,2021-2022,UCL
+Kondogbia,Atlético,Midfielder,0,0,0,9,2021-2022,UCL
+De Paul,Atlético,Midfielder,1,0,0,9,2021-2022,UCL
+Antony,Ajax,Forward,2,5,0,7,2021-2022,UCL
+Walker,Man. City,Defender,1,0,0,7,2021-2022,UCL
+João Félix,Atlético,Forward,1,1,0,8,2021-2022,UCL
+Wöber,Salzburg,Defender,1,0,0,7,2021-2022,UCL
+Blind,Ajax,Defender,1,1,0,8,2021-2022,UCL
+L. Hernández,Bayern,Defender,0,0,0,8,2021-2022,UCL
+J. Timber,Ajax,Midfielder,0,0,0,8,2021-2022,UCL
+Jorginho,Chelsea,Midfielder,2,2,2,8,2021-2022,UCL
+Gonçalo Inácio,Sporting CP,Defender,0,1,0,7,2021-2022,UCL
+Álvarez,Ajax,Midfielder,0,0,0,7,2021-2022,UCL
+Alex Sandro,Juventus,Defender,1,0,0,7,2021-2022,UCL
+Alonso,Chelsea,Defender,0,0,0,8,2021-2022,UCL
+Everton,Benfica,Forward,0,0,0,9,2021-2022,UCL
+Džeko,Inter,Forward,3,1,0,7,2021-2022,UCL
+Vanaken,Club Brugge,Midfielder,3,1,0,6,2021-2022,UCL
+S. Thill,Sheriff,Midfielder,2,1,0,6,2021-2022,UCL
+Coates,Sporting CP,Defender,2,0,0,6,2021-2022,UCL
+Arnold,Wolfsburg,Midfielder,0,3,0,6,2021-2022,UCL
+Cristiano,Sheriff,Defender,0,3,0,6,2021-2022,UCL
+Zabarnyi,Dynamo Kyiv,Defender,0,0,0,6,2021-2022,UCL
+Fernando,Sevilla,Midfielder,0,0,0,6,2021-2022,UCL
+Fernando Costanza,Sheriff,Defender,0,0,0,6,2021-2022,UCL
+Dodô,Shakhtar Donetsk,Defender,0,0,0,6,2021-2022,UCL
+Barrios,Zenit,Midfielder,0,0,0,6,2021-2022,UCL
+Lacroix,Wolfsburg,Defender,0,0,0,6,2021-2022,UCL
+Hendry,Club Brugge,Defender,0,0,0,6,2021-2022,UCL
+Arboleda,Sheriff,Defender,0,0,0,6,2021-2022,UCL
+Dulanto,Sheriff,Defender,0,0,0,6,2021-2022,UCL
+Bounou,Sevilla,Goalkeeper,0,0,0,6,2021-2022,UCL
+Kobel,Dortmund,Goalkeeper,0,0,0,6,2021-2022,UCL
+Mignolet,Club Brugge,Goalkeeper,0,0,0,6,2021-2022,UCL
+Musso,Atalanta,Goalkeeper,0,0,0,6,2021-2022,UCL
+Pasveer,Ajax,Goalkeeper,0,0,0,6,2021-2022,UCL
+Grbić,LOSC,Goalkeeper,0,0,0,6,2021-2022,UCL
+Diogo Costa,Porto,Goalkeeper,0,0,0,6,2021-2022,UCL
+Ter Stegen,Barcelona,Goalkeeper,0,0,0,6,2021-2022,UCL
+Locatelli,Juventus,Midfielder,0,0,0,7,2021-2022,UCL
+Diego Carlos,Sevilla,Defender,0,0,0,6,2021-2022,UCL
+Mount,Chelsea,Midfielder,1,2,0,7,2021-2022,UCL
+Rabiot,Juventus,Midfielder,0,0,0,7,2021-2022,UCL
+Sydorchuk,Dynamo Kyiv,Midfielder,0,0,0,6,2021-2022,UCL
+Maguire,Man. United,Defender,1,0,0,6,2021-2022,UCL
+João Palhinha,Sporting CP,Midfielder,0,0,0,6,2021-2022,UCL
+Tiago Djaló,LOSC,Defender,0,0,0,7,2021-2022,UCL
+Moumi Ngamaleu,Young Boys,Midfielder,1,1,0,6,2021-2022,UCL
+Perišić,Inter,Midfielder,0,1,0,8,2021-2022,UCL
+Nkunku,Leipzig,Midfielder,7,0,0,6,2021-2022,UCL
+Traore,Sheriff,Midfielder,2,1,0,6,2021-2022,UCL
+Burak Yılmaz,LOSC,Forward,3,0,1,7,2021-2022,UCL
+Pedro Porro,Sporting CP,Defender,1,0,0,7,2021-2022,UCL
+Lang,Club Brugge,Forward,0,1,0,6,2021-2022,UCL
+Clinton Mata,Club Brugge,Defender,0,0,0,6,2021-2022,UCL
+Freuler,Atalanta,Midfielder,1,1,0,6,2021-2022,UCL
+Depay,Barcelona,Forward,0,0,0,6,2021-2022,UCL
+Gerard Moreno,Villarreal,Forward,2,4,1,7,2021-2022,UCL
+Lo Celso,Villarreal,Midfielder,0,0,0,6,2021-2022,UCL
+F. de Jong,Barcelona,Midfielder,0,0,0,6,2021-2022,UCL
+Morata,Juventus,Forward,2,0,0,7,2021-2022,UCL
+Bruno Fernandes,Man. United,Midfielder,0,7,0,7,2021-2022,UCL
+Griezmann,Atlético,Forward,4,2,0,9,2021-2022,UCL
+Sučić,Salzburg,Midfielder,1,0,1,8,2021-2022,UCL
+Süle,Bayern,Defender,0,0,0,7,2021-2022,UCL
+Yaremchuk,Benfica,Forward,3,0,0,10,2021-2022,UCL
+Sarabia,Sporting CP,Forward,2,0,1,8,2021-2022,UCL
+Matheus Nunes,Sporting CP,Midfielder,0,2,0,6,2021-2022,UCL
+James,Chelsea,Defender,1,0,0,6,2021-2022,UCL
+Aebischer,Young Boys,Midfielder,0,1,0,6,2021-2022,UCL
+Bellingham,Dortmund,Midfielder,1,3,0,6,2021-2022,UCL
+Zinchenko,Man. City,Defender,0,1,0,8,2021-2022,UCL
+De Ketelaere,Club Brugge,Forward,0,1,0,6,2021-2022,UCL
+Čolak,Malmö,Forward,0,0,0,6,2021-2022,UCL
+Reus,Dortmund,Midfielder,3,1,2,6,2021-2022,UCL
+Rakitskyy,Zenit,Defender,1,2,1,6,2021-2022,UCL
+Barella,Inter,Midfielder,0,0,0,6,2021-2022,UCL
+Innocent,Malmö,Midfielder,0,0,0,6,2021-2022,UCL
+Taremi,Porto,Forward,1,1,0,6,2021-2022,UCL
+João Mário,Benfica,Midfielder,0,4,0,8,2021-2022,UCL
+Addo,Sheriff,Midfielder,0,0,0,6,2021-2022,UCL
+Tsygankov,Dynamo Kyiv,Midfielder,0,1,0,6,2021-2022,UCL
+Elia,Young Boys,Forward,1,0,0,6,2021-2022,UCL
+De Vrij,Inter,Defender,1,0,0,6,2021-2022,UCL
+Sergio Busquets,Barcelona,Midfielder,0,0,0,6,2021-2022,UCL
+Shaparenko,Dynamo Kyiv,Midfielder,0,0,0,6,2021-2022,UCL
+Mukiele,Leipzig,Defender,1,1,0,6,2021-2022,UCL
+Wendel,Zenit,Midfielder,1,0,0,6,2021-2022,UCL
+Meunier,Dortmund,Defender,0,1,0,6,2021-2022,UCL
+De Roon,Atalanta,Midfielder,0,0,0,6,2021-2022,UCL
+Nsoki,Club Brugge,Defender,0,0,0,6,2021-2022,UCL
+Renan Lodi,Atlético,Defender,1,2,0,10,2021-2022,UCL
+Davies,Bayern,Midfielder,0,2,0,7,2021-2022,UCL
+Maycon,Shakhtar Donetsk,Midfielder,0,0,0,6,2021-2022,UCL
+Carrasco,Atlético,Forward,0,0,0,7,2021-2022,UCL
+Cuadrado,Juventus,Midfielder,0,0,0,7,2021-2022,UCL
+Felipe,Atlético,Defender,0,0,0,7,2021-2022,UCL
+Witsel,Dortmund,Midfielder,0,0,0,6,2021-2022,UCL
+Neymar,Paris,Forward,0,1,0,6,2021-2022,UCL
+Bamba,LOSC,Forward,0,0,0,6,2021-2022,UCL
+Dumfries,Inter,Defender,0,1,0,7,2021-2022,UCL
+Goretzka,Bayern,Midfielder,0,0,0,6,2021-2022,UCL
+Zapata,Atalanta,Forward,3,3,0,6,2021-2022,UCL
+Coquelin,Villarreal,Midfielder,1,0,0,8,2021-2022,UCL
+Ocampos,Sevilla,Midfielder,1,1,0,6,2021-2022,UCL
+Lauper,Young Boys,Midfielder,0,0,0,6,2021-2022,UCL
+Grealish,Man. City,Midfielder,1,1,0,7,2021-2022,UCL
+Claudinho,Zenit,Midfielder,2,0,0,6,2021-2022,UCL
+Otávio,Porto,Midfielder,0,0,0,6,2021-2022,UCL
+Feddal,Sporting CP,Defender,0,0,0,6,2021-2022,UCL
+Palomino,Atalanta,Defender,1,1,0,5,2021-2022,UCL
+T. Hernández,Milan,Defender,0,1,0,5,2021-2022,UCL
+Danilo,Juventus,Defender,0,1,0,5,2021-2022,UCL
+Mykolenko,Dynamo Kyiv,Defender,0,0,0,5,2021-2022,UCL
+Syrota,Dynamo Kyiv,Defender,0,0,0,5,2021-2022,UCL
+Koundé,Sevilla,Defender,0,0,0,5,2021-2022,UCL
+Savić,Atlético,Defender,0,0,0,5,2021-2022,UCL
+Akanji,Dortmund,Defender,0,0,0,5,2021-2022,UCL
+L. Nielsen,Malmö,Defender,0,0,0,5,2021-2022,UCL
+Marlon,Shakhtar Donetsk,Defender,0,0,0,5,2021-2022,UCL
+Mbemba,Porto,Defender,0,0,0,5,2021-2022,UCL
+Casteels,Wolfsburg,Goalkeeper,0,0,0,5,2021-2022,UCL
+Ersin Destanoğlu,Beşiktaş,Goalkeeper,0,0,0,5,2021-2022,UCL
+Donnarumma,Paris,Goalkeeper,0,0,0,5,2021-2022,UCL
+Gulácsi,Leipzig,Goalkeeper,0,0,0,5,2021-2022,UCL
+Bushchan,Dynamo Kyiv,Goalkeeper,0,0,0,5,2021-2022,UCL
+Athanasiadis,Sheriff,Goalkeeper,0,0,0,5,2021-2022,UCL
+Musiala,Bayern,Midfielder,1,1,0,8,2021-2022,UCL
+Brorsson,Malmö,Defender,0,0,0,5,2021-2022,UCL
+Ziyech,Chelsea,Midfielder,1,2,0,9,2021-2022,UCL
+Saelemaekers,Milan,Midfielder,0,0,0,6,2021-2022,UCL
+Douglas Santos,Zenit,Defender,0,2,0,5,2021-2022,UCL
+Chistiakov,Zenit,Defender,0,0,0,5,2021-2022,UCL
+Souza,Beşiktaş,Midfielder,0,0,0,5,2021-2022,UCL
+Berget,Malmö,Midfielder,0,0,0,5,2021-2022,UCL
+Onguéné,Salzburg,Defender,0,0,0,5,2021-2022,UCL
+Buyalskiy,Dynamo Kyiv,Midfielder,0,0,0,5,2021-2022,UCL
+Xeka,LOSC,Midfielder,0,0,0,7,2021-2022,UCL
+Mæhle,Atalanta,Defender,0,1,0,5,2021-2022,UCL
+Garcia,Young Boys,Defender,0,0,0,5,2021-2022,UCL
+Malcom,Zenit,Forward,0,1,0,6,2021-2022,UCL
+Fred,Man. United,Midfielder,0,0,0,6,2021-2022,UCL
+Angeliño,Leipzig,Defender,0,3,0,5,2021-2022,UCL
+Pedraza,Villarreal,Midfielder,0,1,0,10,2021-2022,UCL
+Pino,Villarreal,Forward,1,0,0,7,2021-2022,UCL
+Verratti,Paris,Midfielder,0,0,0,5,2021-2022,UCL
+Guilavogui,Wolfsburg,Midfielder,0,0,0,5,2021-2022,UCL
+Kanté,Chelsea,Midfielder,0,1,0,6,2021-2022,UCL
+Kovačić,Chelsea,Midfielder,0,0,0,6,2021-2022,UCL
+Lindelöf,Man. United,Defender,0,0,0,5,2021-2022,UCL
+Hermoso,Atlético,Defender,0,0,0,6,2021-2022,UCL
+C. Martins Pereira,Young Boys,Midfielder,0,0,0,5,2021-2022,UCL
+Hakan Çalhanoğlu,Inter,Midfielder,0,0,0,6,2021-2022,UCL
+Wan0Bissaka,Man. United,Defender,0,0,0,6,2021-2022,UCL
+Tomori,Milan,Defender,1,0,0,5,2021-2022,UCL
+Botman,LOSC,Defender,0,0,0,5,2021-2022,UCL
+Rits,Club Brugge,Midfielder,2,0,0,6,2021-2022,UCL
+Baku,Wolfsburg,Midfielder,1,0,0,6,2021-2022,UCL
+Ahmedhodžić,Malmö,Defender,0,0,0,5,2021-2022,UCL
+André Silva,Leipzig,Forward,3,2,0,6,2021-2022,UCL
+Vidal,Inter,Midfielder,1,2,0,7,2021-2022,UCL
+Balanta,Club Brugge,Midfielder,0,0,0,5,2021-2022,UCL
+Renato Sanches,LOSC,Midfielder,0,0,0,5,2021-2022,UCL
+Zappacosta,Atalanta,Defender,0,1,0,6,2021-2022,UCL
+Laimer,Leipzig,Midfielder,0,1,0,6,2021-2022,UCL
+Kolovos,Sheriff,Midfielder,0,0,0,6,2021-2022,UCL
+Rosier,Beşiktaş,Defender,0,0,0,5,2021-2022,UCL
+Correa,Atlético,Forward,1,0,0,10,2021-2022,UCL
+Gueye,Paris,Midfielder,1,0,0,7,2021-2022,UCL
+McTominay,Man. United,Midfielder,0,0,0,5,2021-2022,UCL
+Gavi,Barcelona,Midfielder,0,0,0,6,2021-2022,UCL
+Weghorst,Wolfsburg,Forward,0,0,0,5,2021-2022,UCL
+Shaw,Man. United,Defender,0,2,0,5,2021-2022,UCL
+Brandt,Dortmund,Midfielder,0,0,0,5,2021-2022,UCL
+Sancho,Man. United,Midfielder,1,0,0,7,2021-2022,UCL
+Piqué,Barcelona,Defender,1,0,0,5,2021-2022,UCL
+Malen,Dortmund,Forward,3,0,0,6,2021-2022,UCL
+Romagnoli,Milan,Defender,0,0,0,5,2021-2022,UCL
+Gnabry,Bayern,Forward,3,2,0,8,2021-2022,UCL
+Zaidu,Porto,Defender,0,0,0,6,2021-2022,UCL
+McKennie,Juventus,Midfielder,0,0,0,6,2021-2022,UCL
+Hefti,Young Boys,Defender,1,1,0,6,2021-2022,UCL
+Forsberg,Leipzig,Forward,2,2,1,6,2021-2022,UCL
+Batshuayi,Beşiktaş,Forward,0,0,0,5,2021-2022,UCL
+Bentancur,Juventus,Midfielder,0,1,0,5,2021-2022,UCL
+Ricardo Esgaio,Sporting CP,Defender,0,2,0,8,2021-2022,UCL
+Acuña,Sevilla,Defender,0,0,0,5,2021-2022,UCL
+Lemar,Atlético,Midfielder,0,1,0,8,2021-2022,UCL
+Bennacer,Milan,Midfielder,0,0,0,6,2021-2022,UCL
+De Pena,Dynamo Kyiv,Midfielder,0,0,0,6,2021-2022,UCL
+Jordi Alba,Barcelona,Defender,0,1,0,5,2021-2022,UCL
+Tetê,Shakhtar Donetsk,Forward,0,0,0,6,2021-2022,UCL
+Demiral,Atalanta,Defender,1,0,0,6,2021-2022,UCL
+Gonçalo Ramos,Benfica,Forward,1,1,0,7,2021-2022,UCL
+Luís Neto,Sporting CP,Defender,0,0,0,6,2021-2022,UCL
+Pulišić,Chelsea,Midfielder,2,1,0,7,2021-2022,UCL
+Ronald Araújo,Barcelona,Defender,0,0,0,5,2021-2022,UCL
+Kędziora,Dynamo Kyiv,Defender,0,0,0,5,2021-2022,UCL
+Danilo,Paris,Midfielder,0,0,0,7,2021-2022,UCL
+Roussillon,Wolfsburg,Defender,0,0,0,6,2021-2022,UCL
+Tolói,Atalanta,Defender,0,0,0,4,2021-2022,UCL
+Matviyenko,Shakhtar Donetsk,Defender,0,0,0,4,2021-2022,UCL
+Kritsyuk,Zenit,Goalkeeper,0,0,0,4,2021-2022,UCL
+Loftus0Cheek,Chelsea,Forward,0,1,0,8,2021-2022,UCL
+Hummels,Dortmund,Defender,0,0,0,5,2021-2022,UCL
+Castañeda,Sheriff,Midfielder,0,0,0,5,2021-2022,UCL
+Klostermann,Leipzig,Defender,0,0,0,5,2021-2022,UCL
+Birmančević,Malmö,Midfielder,0,1,0,6,2021-2022,UCL
+Ismaily,Shakhtar Donetsk,Defender,0,0,0,5,2021-2022,UCL
+Larin,Beşiktaş,Forward,1,0,0,5,2021-2022,UCL
+Varane,Man. United,Defender,0,0,0,5,2021-2022,UCL
+Jesus,Man. City,Forward,4,1,0,8,2021-2022,UCL
+Brahim Díaz,Milan,Midfielder,1,1,0,5,2021-2022,UCL
+João Mário,Porto,Forward,0,0,0,4,2021-2022,UCL
+Fernando,Shakhtar Donetsk,Midfielder,2,0,0,5,2021-2022,UCL
+Pepe,Porto,Defender,0,0,0,5,2021-2022,UCL
+Fernandinho,Man. City,Midfielder,0,2,0,8,2021-2022,UCL
+Luis Suárez,Atlético,Forward,1,0,1,7,2021-2022,UCL
+Pogba,Man. United,Midfielder,0,0,0,6,2021-2022,UCL
+Camara,Young Boys,Defender,0,0,0,4,2021-2022,UCL
+Okafor,Salzburg,Midfielder,3,0,0,6,2021-2022,UCL
+Ghezzal,Beşiktaş,Midfielder,1,0,1,5,2021-2022,UCL
+Lenglet,Barcelona,Defender,0,0,0,4,2021-2022,UCL
+Taarabt,Benfica,Midfielder,0,0,0,9,2021-2022,UCL
+Pedrinho,Shakhtar Donetsk,Midfielder,0,0,0,4,2021-2022,UCL
+Siebatcheu,Young Boys,Forward,2,0,0,6,2021-2022,UCL
+Vranckx,Wolfsburg,Midfielder,0,0,0,4,2021-2022,UCL
+Chiesa,Juventus,Forward,2,0,0,4,2021-2022,UCL
+Gvardiol,Leipzig,Defender,0,0,0,6,2021-2022,UCL
+Tonali,Milan,Midfielder,0,0,0,6,2021-2022,UCL
+Jesús Navas,Sevilla,Defender,0,0,0,4,2021-2022,UCL
+Sobol,Club Brugge,Defender,0,1,0,4,2021-2022,UCL
+Brooks,Wolfsburg,Defender,0,0,0,4,2021-2022,UCL
+Trigueros,Villarreal,Midfielder,1,0,0,9,2021-2022,UCL
+Pedro Gonçalves,Sporting CP,Midfielder,4,2,1,5,2021-2022,UCL
+Mbabu,Wolfsburg,Defender,0,0,0,6,2021-2022,UCL
+Solet,Salzburg,Defender,0,0,0,5,2021-2022,UCL
+Christiansen,Malmö,Midfielder,0,0,0,4,2021-2022,UCL
+Jordán,Sevilla,Midfielder,1,0,0,6,2021-2022,UCL
+Herrera,Paris,Midfielder,1,0,0,6,2021-2022,UCL
+Garmash,Dynamo Kyiv,Midfielder,1,0,0,6,2021-2022,UCL
+Aké,Man. City,Defender,1,0,0,6,2021-2022,UCL
+L. Nmecha,Wolfsburg,Forward,2,0,0,5,2021-2022,UCL
+Solomon,Shakhtar Donetsk,Midfielder,0,0,0,5,2021-2022,UCL
+Gómez,Sevilla,Forward,0,0,0,5,2021-2022,UCL
+Kessié,Milan,Midfielder,0,1,0,5,2021-2022,UCL
+Lukaku,Chelsea,Forward,2,0,0,6,2021-2022,UCL
+Grujić,Porto,Midfielder,0,1,0,6,2021-2022,UCL
+Paredes,Paris,Midfielder,0,0,0,5,2021-2022,UCL
+Calabria,Milan,Defender,0,0,0,4,2021-2022,UCL
+Orbán,Leipzig,Defender,0,0,0,4,2021-2022,UCL
+Lovren,Zenit,Defender,0,0,0,4,2021-2022,UCL
+Dahlin,Malmö,Goalkeeper,0,0,0,4,2021-2022,UCL
+Evanilson,Porto,Forward,0,0,0,4,2021-2022,UCL
+Welinton,Beşiktaş,Defender,0,0,0,4,2021-2022,UCL
+Bruno,Sheriff,Midfielder,0,0,0,6,2021-2022,UCL
+Moreno,Villarreal,Defender,1,0,0,7,2021-2022,UCL
+Montero,Beşiktaş,Defender,1,0,0,4,2021-2022,UCL
+Vrsaljko,Atlético,Defender,0,0,0,5,2021-2022,UCL
+Greenwood,Man. United,Forward,1,1,0,4,2021-2022,UCL
+Azmoun,Zenit,Forward,2,1,0,5,2021-2022,UCL
+Malinovskyi,Atalanta,Midfielder,1,0,0,5,2021-2022,UCL
+Sérgio Oliveira,Porto,Midfielder,1,0,1,6,2021-2022,UCL
+Karavaev,Zenit,Defender,0,1,0,4,2021-2022,UCL
+Sowah,Club Brugge,Forward,0,0,0,5,2021-2022,UCL
+Ikoné,LOSC,Midfielder,1,2,0,5,2021-2022,UCL
+Simakan,Leipzig,Defender,0,0,0,4,2021-2022,UCL
+Lukebakio,Wolfsburg,Forward,0,0,0,6,2021-2022,UCL
+Rafael Leão,Milan,Forward,1,1,0,4,2021-2022,UCL
+Sutormin,Zenit,Midfielder,1,0,0,4,2021-2022,UCL
+Alex Telles,Man. United,Defender,1,0,0,4,2021-2022,UCL
+Bernardeschi,Juventus,Midfielder,0,2,0,5,2021-2022,UCL
+Adams,Leipzig,Midfielder,0,0,0,5,2021-2022,UCL
+Hudson0Odoi,Chelsea,Midfielder,1,2,0,5,2021-2022,UCL
+Uribe,Porto,Midfielder,0,0,0,4,2021-2022,UCL
+De Sciglio,Juventus,Defender,0,1,0,4,2021-2022,UCL
+M. Olsson,Malmö,Defender,0,0,0,6,2021-2022,UCL
+Dimarco,Inter,Defender,0,0,0,7,2021-2022,UCL
+Capaldo,Salzburg,Midfielder,0,0,0,7,2021-2022,UCL
+Peña,Malmö,Midfielder,0,0,0,5,2021-2022,UCL
+Dzyuba,Zenit,Forward,0,1,0,6,2021-2022,UCL
+Rakitić,Sevilla,Midfielder,2,1,2,5,2021-2022,UCL
+Larsson,Malmö,Defender,0,0,0,4,2021-2022,UCL
+Chukwueze,Villarreal,Midfielder,2,0,0,9,2021-2022,UCL
+Rakip,Malmö,Midfielder,0,0,0,6,2021-2022,UCL
+Rieder,Young Boys,Midfielder,1,1,0,6,2021-2022,UCL
+Rafa Mir,Sevilla,Forward,1,1,0,6,2021-2022,UCL
+Kampl,Leipzig,Midfielder,0,0,0,3,2021-2022,UCL
+Verissimo,Benfica,Defender,0,0,0,3,2021-2022,UCL
+N0Sakala,Beşiktaş,Defender,0,0,0,3,2021-2022,UCL
+Kjær,Milan,Defender,0,0,0,3,2021-2022,UCL
+Faivre,Young Boys,Goalkeeper,0,0,0,3,2021-2022,UCL
+Tătăruşanu,Milan,Goalkeeper,0,0,0,3,2021-2022,UCL
+Maignan,Milan,Goalkeeper,0,0,0,3,2021-2022,UCL
+Trubin,Shakhtar Donetsk,Goalkeeper,0,0,0,3,2021-2022,UCL
+Navas,Paris,Goalkeeper,0,0,0,3,2021-2022,UCL
+Von Ballmoos,Young Boys,Goalkeeper,0,0,0,3,2021-2022,UCL
+Fassnacht,Young Boys,Midfielder,0,0,0,3,2021-2022,UCL
+Alan Patrick,Shakhtar Donetsk,Midfielder,0,1,0,4,2021-2022,UCL
+Pyatov,Shakhtar Donetsk,Goalkeeper,0,0,0,3,2021-2022,UCL
+Arthur,Juventus,Midfielder,0,0,0,6,2021-2022,UCL
+Kenan Karaman,Beşiktaş,Forward,0,0,0,5,2021-2022,UCL
+Wijnaldum,Paris,Midfielder,2,0,0,5,2021-2022,UCL
+Giroud,Milan,Forward,0,0,0,5,2021-2022,UCL
+Pjanic,Beşiktaş,Midfielder,0,2,0,3,2021-2022,UCL
+Mehmet Topal,Beşiktaş,Midfielder,0,0,0,3,2021-2022,UCL
+Di María,Paris,Forward,0,1,0,5,2021-2022,UCL
+Djimsiti,Atalanta,Defender,0,0,0,5,2021-2022,UCL
+Dia,Villarreal,Forward,1,0,0,8,2021-2022,UCL
+Steffen,Wolfsburg,Midfielder,2,0,0,5,2021-2022,UCL
+Onana,LOSC,Midfielder,0,0,0,8,2021-2022,UCL
+Rashford,Man. United,Forward,1,0,0,5,2021-2022,UCL
+Kuzyaev,Zenit,Midfielder,1,0,0,4,2021-2022,UCL
+Marcos Antônio,Shakhtar Donetsk,Midfielder,0,0,0,5,2021-2022,UCL
+Dybala,Juventus,Forward,3,1,2,5,2021-2022,UCL
+Weah,LOSC,Forward,0,0,0,5,2021-2022,UCL
+Meraş,Beşiktaş,Defender,0,0,0,3,2021-2022,UCL
+Krunić,Milan,Midfielder,0,0,0,4,2021-2022,UCL
+Iličić,Atalanta,Midfielder,1,1,0,4,2021-2022,UCL
+Nico González,Barcelona,Midfielder,0,0,0,4,2021-2022,UCL
+Eric García,Barcelona,Defender,0,0,0,4,2021-2022,UCL
+Werner,Chelsea,Forward,4,2,0,5,2021-2022,UCL
+Gudmundsson,LOSC,Defender,0,0,0,4,2021-2022,UCL
+Sierro,Young Boys,Midfielder,1,0,0,5,2021-2022,UCL
+André Almeida,Benfica,Defender,0,0,0,5,2021-2022,UCL
+Šeško,Salzburg,Forward,0,0,0,6,2021-2022,UCL
+Tolisso,Bayern,Midfielder,0,1,0,4,2021-2022,UCL
+Dalot,Man. United,Defender,0,0,0,3,2021-2022,UCL
+Klaassen,Ajax,Midfielder,1,1,0,7,2021-2022,UCL
+Adamu,Salzburg,Forward,1,0,0,8,2021-2022,UCL
+Dest,Barcelona,Defender,0,0,0,4,2021-2022,UCL
+Suso,Sevilla,Forward,0,0,0,4,2021-2022,UCL
+Herrera,Atlético,Midfielder,0,0,0,4,2021-2022,UCL
+Stepanenko,Shakhtar Donetsk,Midfielder,0,0,0,4,2021-2022,UCL
+Diawara,Malmö,Goalkeeper,0,0,0,3,2021-2022,UCL
+Moi Gómez,Villarreal,Midfielder,0,1,0,6,2021-2022,UCL
+Rieks,Malmö,Midfielder,1,0,0,3,2021-2022,UCL
+Pašalić,Atalanta,Midfielder,1,1,0,5,2021-2022,UCL
+Trippier,Atlético,Defender,0,0,0,3,2021-2022,UCL
+Mingueza,Barcelona,Defender,0,0,0,5,2021-2022,UCL
+Bozdoğan,Beşiktaş,Midfielder,0,0,0,4,2021-2022,UCL
+Nuno Santos,Sporting CP,Forward,1,0,0,7,2021-2022,UCL
+Vitinha,Porto,Midfielder,0,0,0,6,2021-2022,UCL
+Kalulu,Milan,Defender,0,1,0,5,2021-2022,UCL
+Dahoud,Dortmund,Midfielder,0,2,0,4,2021-2022,UCL
+Corona,Porto,Forward,0,0,0,4,2021-2022,UCL
+Nianzou,Bayern,Midfielder,0,0,0,4,2021-2022,UCL
+Pessina,Atalanta,Midfielder,1,0,0,4,2021-2022,UCL
+Koopmeiners,Atalanta,Midfielder,0,1,0,5,2021-2022,UCL
+Szoboszlai,Leipzig,Midfielder,2,0,1,4,2021-2022,UCL
+Marlos,Shakhtar Donetsk,Midfielder,0,0,0,6,2021-2022,UCL
+Ugarte,Sporting CP,Midfielder,0,0,0,4,2021-2022,UCL
+Yakhshiboev,Sheriff,Forward,1,0,0,3,2021-2022,UCL
+Munir,Sevilla,Forward,0,0,0,4,2021-2022,UCL
+Van de Beek,Man. United,Midfielder,0,0,0,4,2021-2022,UCL
+Bornauw,Wolfsburg,Defender,0,0,0,3,2021-2022,UCL
+Neres,Ajax,Forward,1,0,0,5,2021-2022,UCL
+Haaland,Dortmund,Forward,3,0,0,3,2021-2022,UCL
+Bruno Tabata,Sporting CP,Midfielder,1,1,0,4,2021-2022,UCL
+Delaney,Sevilla,Midfielder,0,0,0,4,2021-2022,UCL
+Darmian,Inter,Defender,0,0,0,5,2021-2022,UCL
+Schulz,Dortmund,Defender,0,1,0,4,2021-2022,UCL
+Matić,Man. United,Midfielder,0,0,0,8,2021-2022,UCL
+Gerhardt,Wolfsburg,Midfielder,0,1,0,5,2021-2022,UCL
+Kryvtsov,Shakhtar Donetsk,Defender,0,1,0,3,2021-2022,UCL
+Necip Uysal,Beşiktaş,Midfielder,0,0,0,3,2021-2022,UCL
+Chilwell,Chelsea,Defender,0,0,0,4,2021-2022,UCL
+Moisander,Malmö,Defender,0,0,0,3,2021-2022,UCL
+Montiel,Sevilla,Defender,0,0,0,4,2021-2022,UCL
+Alex Teixeira,Beşiktaş,Midfielder,0,0,0,3,2021-2022,UCL
+Haidara,Leipzig,Midfielder,0,0,0,4,2021-2022,UCL
+Guerreiro,Dortmund,Defender,0,0,0,3,2021-2022,UCL
+Vlahović,Juventus,Forward,1,0,0,2,2021-2022,UCL
+Morato,Benfica,Defender,1,0,0,2,2021-2022,UCL
+Bürgy,Young Boys,Defender,0,0,0,2,2021-2022,UCL
+Vida,Beşiktaş,Defender,0,0,0,2,2021-2022,UCL
+Bailly,Man. United,Defender,0,0,0,2,2021-2022,UCL
+Leo Jardim,LOSC,Goalkeeper,0,0,0,2,2021-2022,UCL
+M. Kerzhakov,Zenit,Goalkeeper,0,0,0,2,2021-2022,UCL
+Onana,Ajax,Goalkeeper,0,0,0,2,2021-2022,UCL
+Mudryk,Shakhtar Donetsk,Midfielder,0,0,0,6,2021-2022,UCL
+L. de Jong,Barcelona,Forward,0,0,0,3,2021-2022,UCL
+Rugani,Juventus,Defender,0,0,0,4,2021-2022,UCL
+Chalobah,Chelsea,Defender,1,0,0,3,2021-2022,UCL
+Elanga,Man. United,Forward,1,0,0,3,2021-2022,UCL
+Paulo Otávio,Wolfsburg,Defender,0,0,0,4,2021-2022,UCL
+Wolf,Dortmund,Midfielder,0,0,0,5,2021-2022,UCL
+Pongračić,Dortmund,Defender,0,0,0,5,2021-2022,UCL
+Sergi Roberto,Barcelona,Midfielder,0,0,0,3,2021-2022,UCL
+Kean,Juventus,Forward,1,0,0,6,2021-2022,UCL
+Gomes,LOSC,Midfielder,1,1,0,4,2021-2022,UCL
+Óliver Torres,Sevilla,Midfielder,0,0,0,4,2021-2022,UCL
+Lefort,Young Boys,Defender,0,0,0,3,2021-2022,UCL
+Diallo,Paris,Defender,0,0,0,2,2021-2022,UCL
+Ricca,Club Brugge,Defender,0,0,0,4,2021-2022,UCL
+Tiago Tomás,Sporting CP,Forward,0,0,0,5,2021-2022,UCL
+Van Der Brempt,Club Brugge,Defender,0,0,0,5,2021-2022,UCL
+Tymchyk,Dynamo Kyiv,Defender,0,0,0,4,2021-2022,UCL
+Ibrahimović,Milan,Forward,0,0,0,4,2021-2022,UCL
+Saúl Ñíguez,Chelsea,Midfielder,0,0,0,5,2021-2022,UCL
+Pedri,Barcelona,Midfielder,0,0,0,2,2021-2022,UCL
+Pizzi,Benfica,Midfielder,0,0,0,6,2021-2022,UCL
+Vormer,Club Brugge,Midfielder,0,1,0,4,2021-2022,UCL
+Hutchinson,Beşiktaş,Midfielder,0,0,0,4,2021-2022,UCL
+Yansané,Sheriff,Forward,1,0,0,3,2021-2022,UCL
+Alexis Sánchez,Inter,Forward,1,1,0,6,2021-2022,UCL
+Meite,Benfica,Midfielder,0,0,0,3,2021-2022,UCL
+Fábio Cardoso,Porto,Defender,0,0,0,2,2021-2022,UCL
+Karavaev,Dynamo Kyiv,Defender,0,0,0,6,2021-2022,UCL
+Fati,Barcelona,Forward,1,0,0,3,2021-2022,UCL
+Mostovoy,Zenit,Midfielder,0,0,0,5,2021-2022,UCL
+Poulsen,Leipzig,Forward,0,1,0,4,2021-2022,UCL
+D0Ambrosio,Inter,Defender,0,0,0,3,2021-2022,UCL
+Schuurs,Ajax,Defender,0,1,0,3,2021-2022,UCL
+Toni Martínez,Porto,Forward,0,0,0,6,2021-2022,UCL
+Matheus Cunha,Atlético,Forward,0,0,0,5,2021-2022,UCL
+T. Hazard,Dortmund,Midfielder,0,0,0,3,2021-2022,UCL
+Tagliafico,Ajax,Defender,0,1,0,3,2021-2022,UCL
+Draxler,Paris,Forward,0,0,0,3,2021-2022,UCL
+Rıdvan Yılmaz,Beşiktaş,Defender,0,0,0,2,2021-2022,UCL
+Sabitzer,Bayern,Midfielder,0,0,0,5,2021-2022,UCL
+Daniel Bragança,Sporting CP,Midfielder,0,0,0,5,2021-2022,UCL
+Diogo Gonçalves,Benfica,Midfielder,0,0,0,5,2021-2022,UCL
+Wendell,Porto,Defender,0,0,0,4,2021-2022,UCL
+Mechele,Club Brugge,Defender,0,0,0,3,2021-2022,UCL
+Muriel,Atalanta,Forward,1,0,0,5,2021-2022,UCL
+Aurier,Villarreal,Defender,0,1,0,5,2021-2022,UCL
+Reinier,Dortmund,Forward,0,0,0,3,2021-2022,UCL
+Marcano,Porto,Defender,0,0,0,2,2021-2022,UCL
+Sarr,Bayern,Defender,0,0,0,5,2021-2022,UCL
+Rekik,Sevilla,Defender,0,0,0,4,2021-2022,UCL
+Vecino,Inter,Midfielder,0,0,0,4,2021-2022,UCL
+Lewicki,Malmö,Midfielder,0,0,0,2,2021-2022,UCL
+Dembélé,Barcelona,Forward,0,0,0,3,2021-2022,UCL
+Lamela,Sevilla,Midfielder,0,0,0,4,2021-2022,UCL
+Waldschmidt,Wolfsburg,Forward,0,0,0,3,2021-2022,UCL
+Rebić,Milan,Forward,1,0,0,2,2021-2022,UCL
+Lingard,Man. United,Midfielder,0,1,0,4,2021-2022,UCL
+Abubakari,Malmö,Forward,0,0,0,4,2021-2022,UCL
+Brobbey,Leipzig,Forward,0,0,0,5,2021-2022,UCL
+Messias Junior,Milan,Forward,1,0,0,2,2021-2022,UCL
+Lázaro,Benfica,Midfielder,0,0,0,6,2021-2022,UCL
+Maceiras,Young Boys,Defender,0,0,0,3,2021-2022,UCL
+Salih Uçan,Beşiktaş,Midfielder,0,0,0,5,2021-2022,UCL
+Coutinho,Barcelona,Forward,0,0,0,4,2021-2022,UCL
+Correa,Inter,Forward,0,0,0,5,2021-2022,UCL
+Erokhin,Zenit,Midfielder,0,0,0,6,2021-2022,UCL
+Shkurin,Dynamo Kyiv,Forward,0,0,0,2,2021-2022,UCL
+Slimani,Sporting CP,Forward,0,0,0,2,2021-2022,UCL
+Demir,Barcelona,Midfielder,0,0,0,3,2021-2022,UCL
+Gosens,Atalanta,Midfielder,1,0,0,2,2021-2022,UCL
+Traoré,Shakhtar Donetsk,Forward,0,0,0,2,2021-2022,UCL
+Tigges,Dortmund,Forward,0,0,0,2,2021-2022,UCL
+Sarr,Chelsea,Defender,0,0,0,2,2021-2022,UCL
+Ranocchia,Inter,Defender,0,0,0,3,2021-2022,UCL
+Nikolov,Sheriff,Midfielder,1,0,0,5,2021-2022,UCL
+Zagadou,Dortmund,Defender,0,0,0,2,2021-2022,UCL
+Mata,Man. United,Midfielder,0,0,0,3,2021-2022,UCL
+Barkley,Chelsea,Midfielder,0,0,0,3,2021-2022,UCL
+Andriyevskiy,Dynamo Kyiv,Midfielder,0,0,0,2,2021-2022,UCL
+Vitinho,Dynamo Kyiv,Midfielder,0,0,0,3,2021-2022,UCL
+Mario Gaspar,Villarreal,Defender,0,0,0,2,2021-2022,UCL
+Verbič,Dynamo Kyiv,Midfielder,0,0,0,3,2021-2022,UCL
+Ballo,Milan,Defender,0,0,0,2,2021-2022,UCL
+Philipp,Wolfsburg,Forward,0,0,0,2,2021-2022,UCL
+Hateboer,Atalanta,Defender,0,0,0,1,2021-2022,UCL
+N0Koudou,Beşiktaş,Midfielder,0,0,0,1,2021-2022,UCL
+Egan0Riley,Man. City,Defender,0,0,0,1,2021-2022,UCL
+Shabanov,Dynamo Kyiv,Defender,0,0,0,1,2021-2022,UCL
+Bondar,Shakhtar Donetsk,Defender,0,0,0,1,2021-2022,UCL
+Lustenberger,Young Boys,Defender,0,0,0,1,2021-2022,UCL
+Serdar Saatçı,Beşiktaş,Defender,0,0,0,1,2021-2022,UCL
+Vitão,Shakhtar Donetsk,Defender,0,0,0,1,2021-2022,UCL
+Ulreich,Bayern,Goalkeeper,0,0,0,1,2021-2022,UCL
+Martínez,Leipzig,Goalkeeper,0,0,0,1,2021-2022,UCL
+Pervan,Wolfsburg,Goalkeeper,0,0,0,1,2021-2022,UCL
+Kepa,Chelsea,Goalkeeper,0,0,0,1,2021-2022,UCL
+João Virginia,Sporting CP,Goalkeeper,0,0,0,1,2021-2022,UCL
+Günok,Beşiktaş,Goalkeeper,0,0,0,1,2021-2022,UCL
+Celeadnic,Sheriff,Goalkeeper,0,0,0,1,2021-2022,UCL
+Boyko,Dynamo Kyiv,Goalkeeper,0,0,0,1,2021-2022,UCL
+Perin,Juventus,Goalkeeper,0,0,0,1,2021-2022,UCL
+Steffen,Man. City,Goalkeeper,0,0,0,1,2021-2022,UCL
+Nanasi,Malmö,Midfielder,0,0,0,2,2021-2022,UCL
+Florenzi,Milan,Defender,0,0,0,4,2021-2022,UCL
+Olmo,Leipzig,Forward,0,1,0,2,2021-2022,UCL
+Fábio Vieira,Porto,Midfielder,0,1,0,2,2021-2022,UCL
+Bondarenko,Shakhtar Donetsk,Midfielder,0,0,0,2,2021-2022,UCL
+Piątkowski,Salzburg,Defender,0,0,0,2,2021-2022,UCL
+Nalić,Malmö,Midfielder,0,0,0,5,2021-2022,UCL
+Korniienko,Shakhtar Donetsk,Defender,0,0,0,2,2021-2022,UCL
+En0Nesyri,Sevilla,Forward,0,0,0,2,2021-2022,UCL
+Supryaha,Dynamo Kyiv,Forward,0,0,0,2,2021-2022,UCL
+De Winter,Juventus,Defender,0,0,0,2,2021-2022,UCL
+Kulusevski,Juventus,Midfielder,1,0,0,5,2021-2022,UCL
+Augustinsson,Sevilla,Defender,0,0,0,3,2021-2022,UCL
+Radeljić,Sheriff,Defender,0,0,0,3,2021-2022,UCL
+Jovane Cabral,Sporting CP,Forward,0,0,0,3,2021-2022,UCL
+Marc Roca,Bayern,Defender,0,0,0,4,2021-2022,UCL
+Kanga,Young Boys,Forward,0,0,0,5,2021-2022,UCL
+Cavani,Man. United,Forward,0,0,0,4,2021-2022,UCL
+Gökhan Töre,Beşiktaş,Midfielder,0,0,0,4,2021-2022,UCL
+Emre Can,Dortmund,Defender,0,0,0,2,2021-2022,UCL
+Alcácer,Villarreal,Forward,1,0,0,3,2021-2022,UCL
+Esteves,Sporting CP,Defender,0,0,0,1,2021-2022,UCL
+Rensch,Ajax,Defender,0,0,0,5,2021-2022,UCL
+Ferran Torres,Man. City,Forward,0,0,0,1,2021-2022,UCL
+Kehrer,Paris,Defender,0,0,0,4,2021-2022,UCL
+Krugovoi,Zenit,Defender,0,0,0,6,2021-2022,UCL
+Dost,Club Brugge,Forward,0,0,0,3,2021-2022,UCL
+Diallo,Man. United,Midfielder,0,0,0,1,2021-2022,UCL
+Henderson,Man. United,Goalkeeper,0,0,0,1,2021-2022,UCL
+Martial,Man. United,Forward,0,0,0,2,2021-2022,UCL
+Gagliardini,Inter,Midfielder,0,0,0,5,2021-2022,UCL
+Rúben Vinagre,Sporting CP,Defender,0,0,0,2,2021-2022,UCL
+Mambimbi,Young Boys,Forward,0,0,0,4,2021-2022,UCL
+Moriba,Leipzig,Midfielder,0,0,0,3,2021-2022,UCL
+Passlack,Dortmund,Midfielder,0,0,0,2,2021-2022,UCL
+Bakayoko,Milan,Defender,0,0,0,3,2021-2022,UCL
+Pezzella,Atalanta,Defender,0,0,0,3,2021-2022,UCL
+Sudakov,Shakhtar Donetsk,Midfielder,0,0,0,2,2021-2022,UCL
+Sandra,Club Brugge,Midfielder,0,0,0,1,2021-2022,UCL
+Mbamba0Muanda,Club Brugge,Defender,0,0,0,3,2021-2022,UCL
+Shepeliev,Dynamo Kyiv,Midfielder,0,0,0,2,2021-2022,UCL
+Richards,Bayern,Defender,0,0,0,4,2021-2022,UCL
+Julien,Sheriff,Defender,0,0,0,3,2021-2022,UCL
+Oğuzhan Özyakup,Beşiktaş,Midfielder,0,0,0,2,2021-2022,UCL
+Daramy,Ajax,Forward,0,0,0,2,2021-2022,UCL
+Henrichs,Leipzig,Defender,0,0,0,4,2021-2022,UCL
+Choupo0Moting,Bayern,Midfielder,1,0,0,4,2021-2022,UCL
+Yusuf Yazıcı,LOSC,Midfielder,0,0,0,4,2021-2022,UCL
+Icardi,Paris,Forward,0,0,0,3,2021-2022,UCL
+McAtee,Man. City,Midfielder,0,0,0,1,2021-2022,UCL
+Lovato,Atalanta,Defender,0,0,0,1,2021-2022,UCL
+Palmer,Man. City,Midfielder,1,0,0,3,2021-2022,UCL
+Paulo Bernardo,Benfica,Midfielder,0,0,0,5,2021-2022,UCL
+Kjærgaard,Salzburg,Midfielder,1,0,0,4,2021-2022,UCL
+Taylor,Ajax,Midfielder,0,0,0,3,2021-2022,UCL
+Francisco Conceição,Porto,Forward,0,0,0,2,2021-2022,UCL
+F. Nmecha,Wolfsburg,Midfielder,0,0,0,2,2021-2022,UCL
+Pepê,Porto,Forward,0,0,0,3,2021-2022,UCL
+Al. Miranchuk,Atalanta,Forward,0,1,0,2,2021-2022,UCL
+Edwards,Sporting CP,Forward,0,0,0,1,2021-2022,UCL
+Radonjić,Benfica,Forward,0,0,0,1,2021-2022,UCL
+Mengi,Man. United,Defender,0,0,0,1,2021-2022,UCL
+Wesley,Club Brugge,Forward,0,0,0,2,2021-2022,UCL
+Mandi,Villarreal,Defender,0,0,0,2,2021-2022,UCL
+Kudus,Ajax,Midfielder,0,0,0,2,2021-2022,UCL
+Novoa,Leipzig,Midfielder,0,1,0,1,2021-2022,UCL
+Lihadji,LOSC,Forward,0,0,0,3,2021-2022,UCL
+Bernardo,Salzburg,Defender,0,1,0,2,2021-2022,UCL
+Tijani,Salzburg,Midfielder,0,0,0,1,2021-2022,UCL
+Ben Arfa,LOSC,Midfielder,0,0,0,2,2021-2022,UCL
+Óscar Rodríguez,Sevilla,Midfielder,0,0,0,1,2021-2022,UCL
+Shoretire,Man. United,Midfielder,0,0,0,1,2021-2022,UCL
+Heaton,Man. United,Goalkeeper,0,0,0,1,2021-2022,UCL
+Stanišić,Bayern,Defender,0,1,0,2,2021-2022,UCL
+Knauff,Dortmund,Midfielder,0,0,0,3,2021-2022,UCL
+Maldini,Milan,Forward,0,0,0,3,2021-2022,UCL
+Moukoko,Dortmund,Forward,0,0,0,1,2021-2022,UCL
+Iván Romero,Sevilla,Forward,0,0,0,1,2021-2022,UCL
+Flávio Nazinho,Sporting CP,Defender,0,0,0,2,2021-2022,UCL
+Balde,Barcelona,Defender,0,0,0,2,2021-2022,UCL
+Tillman,Bayern,Midfielder,0,0,0,2,2021-2022,UCL
+Peña,Villarreal,Defender,0,0,0,2,2021-2022,UCL
+Ricard Puig,Barcelona,Midfielder,0,0,0,1,2021-2022,UCL
+Berkay Vardar,Beşiktaş,Midfielder,0,0,0,1,2021-2022,UCL
+Carson,Man. City,Goalkeeper,0,0,0,1,2021-2022,UCL
+Eric Ramirez,Dynamo Kyiv,Forward,0,0,0,2,2021-2022,UCL
+Cojocaru,Sheriff,Midfielder,0,0,0,2,2021-2022,UCL
+Javi Serrano,Atlético,Midfielder,0,0,0,1,2021-2022,UCL
+Agüero,Barcelona,Forward,0,0,0,1,2021-2022,UCL
+Ramsey,Juventus,Midfielder,0,0,0,2,2021-2022,UCL
+Kravtsov,Zenit,Midfielder,0,0,0,2,2021-2022,UCL
+Bradarić,LOSC,Defender,0,0,0,1,2021-2022,UCL
+Ozdoev,Zenit,Midfielder,1,0,0,1,2021-2022,UCL
+Bruno Costa,Porto,Midfielder,0,0,0,1,2021-2022,UCL
+Raba,Villarreal,Midfielder,0,0,0,1,2021-2022,UCL
+Iborra,Villarreal,Midfielder,0,0,0,1,2021-2022,UCL
+Bonnah,Leipzig,Midfielder,0,0,0,1,2021-2022,UCL
+Sensi,Inter,Midfielder,0,0,0,2,2021-2022,UCL
+Lednev,Dynamo Kyiv,Midfielder,0,0,0,1,2021-2022,UCL
+Zhegrova,LOSC,Midfielder,0,0,0,1,2021-2022,UCL
+Seferović,Benfica,Forward,0,0,0,1,2021-2022,UCL
+Zakaria,Juventus,Midfielder,0,0,0,1,2021-2022,UCL
+Dário Essugo,Sporting CP,Midfielder,0,0,0,1,2021-2022,UCL
+Spielmann,Young Boys,Midfielder,0,0,0,1,2021-2022,UCL
+Izquierdo,Club Brugge,Forward,0,0,0,1,2021-2022,UCL
+Chiellini,Juventus,Defender,0,0,0,1,2021-2022,UCL
+Dina Ebimbe,Paris,Midfielder,0,0,0,1,2021-2022,UCL
+Sulejmani,Young Boys,Midfielder,0,0,0,1,2021-2022,UCL
+Delap,Man. City,Forward,0,0,0,1,2021-2022,UCL
+Mbete,Man. City,Defender,0,0,0,1,2021-2022,UCL
+Kolarov,Inter,Defender,0,0,0,1,2021-2022,UCL
+Šimić,Salzburg,Forward,0,0,0,1,2021-2022,UCL
+Guindo,Salzburg,Defender,0,0,0,1,2021-2022,UCL
+Dentinho,Shakhtar Donetsk,Midfielder,0,0,0,1,2021-2022,UCL
+Shevchenko,Shakhtar Donetsk,Goalkeeper,0,0,0,1,2021-2022,UCL
+Maier,Young Boys,Midfielder,0,0,0,1,2021-2022,UCL
+Luca Pellegrini,Juventus,Defender,0,0,0,1,2021-2022,UCL
+Kuznetsov,Zenit,Forward,0,0,0,1,2021-2022,UCL
+Eile,Malmö,Defender,0,0,0,1,2021-2022,UCL
+Ginczek,Wolfsburg,Forward,0,0,0,1,2021-2022,UCL
+Savage,Man. United,Midfielder,0,0,0,1,2021-2022,UCL
+Iqbal,Man. United,Midfielder,0,0,0,1,2021-2022,UCL
+Da Graca,Juventus,Forward,0,0,0,1,2021-2022,UCL
+Miretti,Juventus,Midfielder,0,0,0,1,2021-2022,UCL
+Gil Dias,Benfica,Midfielder,0,0,0,1,2021-2022,UCL
+Rodrigo Ribeiro,Sporting CP,Forward,0,0,0,1,2021-2022,UCL
+Cojocari,Sheriff,Defender,0,0,0,1,2021-2022,UCL
+Maouassa,Club Brugge,Defender,0,0,0,1,2021-2022,UCL
+Zesiger,Young Boys,Defender,0,0,0,1,2021-2022,UCL
