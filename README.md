@@ -107,10 +107,6 @@ If you'd like to contribute to this project:
 5. Push to your branch (`git push origin feature-branch`).
 6. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Data sourced from UEFA Champions League and other football data providers.
